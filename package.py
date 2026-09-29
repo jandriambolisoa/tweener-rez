@@ -1,6 +1,6 @@
 name = "tweener"
 
-version = "1.0.10"
+version = "1.0.10-r.1"
 
 authors = [
     "monoteba",
@@ -16,7 +16,6 @@ description = \
     """
 
 requires = [
-    "python-3+",
     "maya-2025+"
 ]
 
